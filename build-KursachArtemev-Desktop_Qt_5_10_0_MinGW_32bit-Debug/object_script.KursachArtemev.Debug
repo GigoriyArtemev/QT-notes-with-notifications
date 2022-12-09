@@ -1,0 +1,12 @@
+INPUT(
+./debug\main.o
+./debug\mainwindow.o
+./debug\popup.o
+./debug\form.o
+./debug\database.o
+./debug\qrc_file.o
+./debug\moc_mainwindow.o
+./debug\moc_popup.o
+./debug\moc_form.o
+./debug\moc_database.o
+);

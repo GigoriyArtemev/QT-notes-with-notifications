@@ -1,0 +1,12 @@
+INPUT(
+./release\main.o
+./release\mainwindow.o
+./release\popup.o
+./release\form.o
+./release\database.o
+./release\qrc_file.o
+./release\moc_mainwindow.o
+./release\moc_popup.o
+./release\moc_form.o
+./release\moc_database.o
+);
